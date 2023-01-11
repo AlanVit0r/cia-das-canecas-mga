@@ -88,6 +88,10 @@ section.img > p {
 
 }
 
+p.passo {
+    color: red;
+}
+
 footer {
     text-align: center;
     padding-top: 13px;
