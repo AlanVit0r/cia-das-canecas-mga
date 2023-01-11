@@ -49,13 +49,13 @@ main > article h1 {
 }
 
 main > article h2 {
-    font-size: 40;
+    font-size: 45;
     text-align: center;
     font-variant: small-caps;
 }
 
 main article {
-    font-size: 20px;
+    font-size: 30px;
     padding-bottom: 20px;
     text-align: center;
 
