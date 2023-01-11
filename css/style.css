@@ -55,9 +55,13 @@ main > article h2 {
 }
 
 main article {
+    text-indent: 2em;
     font-size: 30px;
+    padding-left: 3vw;
+    padding-right: 3vw;
     padding-bottom: 20px;
-    text-align: center;
+    text-align: justify;
+    
 
 }
 
@@ -75,7 +79,7 @@ section.img {
     padding-bottom: 5vh;
     line-height: 2em;
     background-color: #ffffff;
-    background-image: url('../img/fotos/004.jpg');
+    background-image: url('../img/fotos/008.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -85,11 +89,14 @@ section.img {
 
 section.img > p {
     background-color: rgba(0, 0, 0, 0.466);
+    padding: 1%;
 
 }
 
 p.passo {
-    color: red;
+    color: rgb(236, 58, 58);
+    font-variant: small-caps;
+    font-size: 35px;
 }
 
 footer {
